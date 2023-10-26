@@ -1,3 +1,5 @@
+//Escribe un programa que pida un número y diga si es divisible por 2
+
 //Como hablamos de paridad uso int para numeros enteros
 
 const numero = parseInt(prompt("Por favor introduce un número:"));

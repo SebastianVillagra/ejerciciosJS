@@ -1,3 +1,6 @@
+/*11.- Añadir al ejercicio anterior que nos diga por cuál de los cuatro es divisible (hay
+que decir todos por los que es divisible)*/
+
 const numero = parseInt(prompt("Por favor introduce un número:"));
 let mensaje = ''; // declaro la variable mensaje como una cadena vacía para luego concatenarla si es divible 
 

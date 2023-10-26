@@ -1,3 +1,6 @@
+/*9.- Escribe un programa que pida una frase y escriba las vocales que aparecen
+Nota: Tener en cuenta la función length y substring o charAt (developer mozilla)*/
+
 const frase = prompt("Por favor introduce una frase:");
 let vocalesEncontradas = "";  //Declaro la variable vocalesEncontradas para guardar las vocales (let xq pueden cambiar)
 

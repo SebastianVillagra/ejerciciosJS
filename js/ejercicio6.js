@@ -1,3 +1,5 @@
+//Escribe un programa que pida dos números y escriba en la pantalla cual es el mayor
+
 //Utilizo float para que el usuario pueda ingresar numeros reales tambien
 
 const numero1 = parseFloat(prompt("Por favor introduce el primer número:"));
